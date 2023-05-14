@@ -59,7 +59,7 @@ header h1 {
   color:white;
 }
 #sidebar{
-  width: 20%;
+  width: 20vh;
   float: left;
 }
 #sidebar-menu{

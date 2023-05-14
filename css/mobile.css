@@ -1,15 +1,11 @@
-/*@media (max-width: 600px) {
-  body{
+@media (max-width: 600px) {
+  main {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
   }
-  #sidebar{
-    flex-direction: column;
-  }
-  #content{
-    float: center;
-  }
-  #contact{
+
+  #content, #contact, #sidebar {
+    width: 100%;
   }
 }
-*/
-
